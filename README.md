@@ -7,3 +7,5 @@ The Java project is significantly more full-featured now, but includes proprieta
 So, this is just a toy project taking a couple of hours and it demonstrates a few interactions with Win32 from .NET to accomplish a hidden exe that you can launch by hitting Alt-'  (that's ALT grave accent/keycode 192).
 
 It will find your window as best as it can using camel case matching of window names & it will show a little preview of the window you want to switch to. 
+
+![screen1](images/screen1.jpg)
